@@ -16,4 +16,4 @@ This is a simple Netflix homepage clone created using only HTML and CSS. It is n
 - CSS3
 
 ## How to Use
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Subham-0/netflix.git
